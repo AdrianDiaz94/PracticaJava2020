@@ -1,0 +1,38 @@
+1023;Análisis Matemático I;0
+1024;Elementos de Programación;0
+1025;Sistemas de Representación;0
+1026;Tecnología,Ingeniería y Sociedad;0
+1027;Álgebra y Geometría Analítica I;0
+1028;Matemática Discreta;0
+1029;Química General;0
+1030;Fundamentos de TIC's;0
+1031;Física I;1;1023
+1032;Álgebra y Geometría analítica II;1;1027
+1033;Análisis Matemático II;1;1023
+1035;Física II;1;1031
+1108;Requerimientos para la Ingeniería;1;1030
+1109;Arquitectura de Computadoras;2;1028;1030
+1110;Programación / Incluye TCP;2;1024;1028
+1111;Probabilidad y Estadística;1;1033
+1112;Auditoría y Seguridad Informática;2,1026;1109
+1113;Programación Avanzada / Incluye TCP;2;1023;1110
+1114;Base de Datos;2;1028;1033
+1115;Sistemas Operativos;2;1109;1110
+1116;Análisis de Sistemas / Incluye TCP;2;1028;1108
+1117;Cálculo Numérico;2;1032;1033
+1118;Ingeniería de Requerimientos;1;1116
+1119;Comunicación de Datos;2;1109;1115
+1120;Diseño de Sistemas / Incluye TCP;1;1116
+1121;Análisis de Software;1;1113
+1122;Redes de Computadoras;2;1031;1119
+1123;Sistemas Operativos Avanzados;2;1113;1115
+1124;Lenguajes y Compiladores;2;1110;1115
+1125;Gestión Organizacional;2;1026;1116
+1126;Ingeniería de Software / Incluye TCP;8;1025;1029;1035;1109;1111;1115;1117;1120
+1127;Elementos de Inteligencia Artificial;5;1029;1032;1035;1111;1123
+1128;Electiva I;7;1025;1029;1035;1111;1115;1117;1122
+1129;Autómatas y Lenguajes Formales;6;1025;1029;1035;1111;1117;1122
+1130;Electiva II;7;1025;1029;1035;1111;1115;1117;1122
+1131;Electiva III;7;1025;1029;1035;1111;1115;1117;1122
+1132;Proyecto de fin de carrera;29;1023;1024;1025;1026;1027;1028;1029;1030;1031;1032;1033;1035;1108;1109;1110;1112;1113;1114;1115;1116;1117;1118;1119;1120;1121;1122;1123;1124;1125
+1133;Práctica Profesional Supervisada;5;1118;1119;1120;1121;1125
